@@ -1,11 +1,15 @@
 <h2>Contact Information:</h2>
 E-mail: {EMAIL}
 Skype: {USERNAME}
+
 <h2>Accounts: social networks:</h2>
+
 <a href="http://vk.com/{USERNAME}">VK</a>
 <a href="http://fb.com/{USERNAME}">Facebook</a>
 <a href="http://plus.google.com/{GOOGLE}/about">Google+</a>
+
 <h2>Accounts: code & design:</h2>
+
 <a href="http://github.com/{USERNAME}">GitHub</a>
 <a href="http://userstyles.org/users/{USERSTYLES}">UserStyles</a>
 <a href="http://{USERNAME}.deviantart.com">DeviantArt</a>
@@ -13,23 +17,33 @@ Skype: {USERNAME}
 <a href="http://instacod.es/user/{USERNAME}">Instacode</a>
 <a href="http://govnokod.ru/user/{GKOD}">Govnokod</a>
 <a href="http://thepiratebay.se/user/{USERNAME}/">The Pirate Bay</a>
+
 <h2>Accounts: blogs:</h2>
+
 <a href="http://{USERNAME}.livejournal.com">LiveJournal</a>
 <a href="http://twitter.com/{USERNAME}">Twitter</a>
+
 <h2>Accounts: forums:</h2>
+
 <a href="http://d3.ru/user/{USERNAME}">D3</a>
 <a href="http://reddit.com/user/{USERNAME}/">Reddit</a>
 <a href="http://habr.ru/users/{USERNAME}/">HabraHabr/</a>
 <a href="http://linux.org.ru/people/{USERNAME}/profile">Linux.Org.Ru</a>
+
 <h2>Accounts: other:</h2>
+
 <a href="http://ohloh.net/accounts/{USERNAME}">Ohloh</a>
 <a href="http://compilr.com/{USERNAME}">Compilr</a>
+
 <h2>Accounts: interests:</h2>
+
 <a href="http://www.last.fm/user/{USERNAME}">Last.FM</a>
 <a href="http://myanimelist.net/profile/{USERNAME}">MyAnimeList</a>
 <a href="http://goodreads.com/{USERNAME}">GoodReads</a>
 <a href="http://youtube.com/user/{USERNAME}">YouTube</a>
+
 <h2>Money:</h2>
+
 ltc: {LTC}
 btc: {BTC}
 paypal: {EMAIL}
